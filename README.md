@@ -1,0 +1,2 @@
+# JavascriptHacks
+Random Javascript Hacks
